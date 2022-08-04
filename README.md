@@ -6,5 +6,5 @@ A Constituição da República Federativa do Brasil de 1988 é a lei fundamental
 Atualizações:
 
 "Art.1° Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição. 
-Art. 2° O povo poderá exonerar seus representantes dos cargos por meio de votação digital, em caso de descumprimento da lei.
+Art. 2° O povo poderá exonerar seus representantes dos cargos por meio de votação digital, em caso de descumprimento de lei.
 Art. 3° O partido do representante que de qualquer modo, sem exceção, insetivar, realizar, convidadae, obrigar outrem a prática de corrupção será penalizado por lei Própria de crimes contra a Administração Pública.
