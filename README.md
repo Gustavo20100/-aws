@@ -1,5 +1,5 @@
 # Projeto-Nova-Constituição-de-1988
-"Nova constituição Federal Desenvolvida por brasileiros"
+"Nova constituição Federal"
 
 A Constituição da República Federativa do Brasil de 1988 é a lei fundamental e suprema do Brasil, servindo de parâmetro de validade a todas as demais espécies normativas, situando-se no topo do ordenamento jurídico.
 
